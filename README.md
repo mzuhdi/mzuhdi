@@ -4,8 +4,11 @@
 
 <p align="center"> By day QA Engineer + Consultant <a href="https://deloitte.com">@Deloitte</a> Consulting LLP | By night Full Stack Developer </p>
 
+- ⚒️ Languages: Java | Python | JavaScript | SQL
+- 🌱 Learning: React.js | Selenium
+- 🏛️ Temple Univeristy | B.S. Information Science and Technology
 - 👨 Pronouns: he/him
-- 📫 Reach me: [My LinkedIn](https://www.linkedin.com/in/muhammad-zuhdi-ist/)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-zuhdi-ist/) | [Email](mailto:muhammad.zuhdi07@gmail.com)
 <!--
 **mzuhdi/mzuhdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
