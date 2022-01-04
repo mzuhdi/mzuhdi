@@ -1,10 +1,11 @@
 <h3 align="center">👋 Hi there! I'm Muhammad Zuhdi</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-zuhdi-ist/">LinkedIn</a>
-</p>
 
 ---
 
+By day QA Engineer + Consultant [@Deloitte](https://deloitte.com) Consulting LLP | By night Full Stack Developer
+
+- 👨 Pronouns: he/him
+- 📫 Reach me: [My LinkedIn](https://www.linkedin.com/in/muhammad-zuhdi-ist/)
 <!--
 **mzuhdi/mzuhdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
