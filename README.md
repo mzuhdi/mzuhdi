@@ -2,7 +2,7 @@
 
 ---
 
-By day QA Engineer + Consultant [@Deloitte](https://deloitte.com) Consulting LLP | By night Full Stack Developer
+<p align="center"> By day QA Engineer + Consultant <a href="https://deloitte.com">@Deloitte</a> Consulting LLP | By night Full Stack Developer </p>
 
 - 👨 Pronouns: he/him
 - 📫 Reach me: [My LinkedIn](https://www.linkedin.com/in/muhammad-zuhdi-ist/)
