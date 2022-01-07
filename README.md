@@ -1,4 +1,9 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Muhammad Zuhdi</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-zuhdi-ist/">LinkedIn</a>
+</p>
+
+---
 
 <!--
 **mzuhdi/mzuhdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
